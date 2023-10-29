@@ -25,6 +25,12 @@ El algoritmo de Dijkstra trabaja manteniendo un conjunto de nodos cuyas distanci
   
 - **Resultados y Verificación**: Tras implementar el algoritmo, imprimí los resultados para verificar su correcto funcionamiento.
 
+
+  <img width="1512" alt="Captura de pantalla 2023-10-29 a la(s) 1 44 33 p m" src="https://github.com/annlima/DijkstraAlgorithm/assets/89811870/e9309c2c-5830-4afd-9830-1402ac890dc5">
+
+## Complejidad Algorítmica
+La complejidad temporal del algoritmo de Dijkstra depende de las estructuras de datos utilizadas. Si se utiliza una cola de prioridad basada en un min_heap, la complejidad temporal es O(|V| + |E| log |V|), donde |V| es el número de nodos y |E| es el número de aristas.
+
 ## Conclusión
 La implementación del algoritmo de Dijkstra en Java proporcionó una valiosa experiencia en la manipulación de estructuras de datos y la implementación de algoritmos de grafos. A pesar de los desafíos enfrentados, la estrategia de dividir el problema en partes manejables y abordar cada parte paso a paso resultó ser eficaz. Este algoritmo no sólo es fundamental en teoría de grafos, sino que también tiene aplicaciones prácticas en diversas áreas de la informática y la ingeniería.
 
